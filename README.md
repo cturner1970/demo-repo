@@ -1,3 +1,3 @@
 # Demo
 
-My 1st committed file as I practice GIT
+My First committed file as I practice GIT
